@@ -105,12 +105,12 @@ class ViewController: UIViewController {
         number1 = 0
         ope = 2
     }
-    @IBAction func かける(){
+    @IBAction func kakeru(){
         number2 = number1
         number1 = 0
         ope = 3
     }
-    @IBAction func わる(){
+    @IBAction func waru(){
         number2 = number1
         number1 = 0
         ope = 4

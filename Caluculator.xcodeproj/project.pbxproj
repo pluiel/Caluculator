@@ -15,7 +15,7 @@
 		F92BA7AE24692F47007CE761 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F92BA7AC24692F47007CE761 /* LaunchScreen.storyboard */; };
 		F92BA7B924692F47007CE761 /* CaluculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F92BA7B824692F47007CE761 /* CaluculatorTests.swift */; };
 		F92BA7C424692F47007CE761 /* CaluculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F92BA7C324692F47007CE761 /* CaluculatorUITests.swift */; };
-		F9EA8162246D5A100052B75E /* 1136989.png in Resources */ = {isa = PBXBuildFile; fileRef = F9EA8161246D5A100052B75E /* 1136989.png */; };
+		F937F85C246FDE59005ACF46 /* minimal-modern-simple-architecture-.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F937F85B246FDE59005ACF46 /* minimal-modern-simple-architecture-.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,7 +50,7 @@
 		F92BA7BF24692F47007CE761 /* CaluculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CaluculatorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F92BA7C324692F47007CE761 /* CaluculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CaluculatorUITests.swift; sourceTree = "<group>"; };
 		F92BA7C524692F47007CE761 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		F9EA8161246D5A100052B75E /* 1136989.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 1136989.png; path = ../../../../Downloads/1136989.png; sourceTree = "<group>"; };
+		F937F85B246FDE59005ACF46 /* minimal-modern-simple-architecture-.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "minimal-modern-simple-architecture-.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,7 +101,7 @@
 		F92BA7A024692F44007CE761 /* Caluculator */ = {
 			isa = PBXGroup;
 			children = (
-				F9EA8161246D5A100052B75E /* 1136989.png */,
+				F937F85B246FDE59005ACF46 /* minimal-modern-simple-architecture-.jpg */,
 				F92BA7A124692F44007CE761 /* AppDelegate.swift */,
 				F92BA7A324692F44007CE761 /* SceneDelegate.swift */,
 				F92BA7A524692F44007CE761 /* ViewController.swift */,
@@ -238,7 +238,7 @@
 				F92BA7AE24692F47007CE761 /* LaunchScreen.storyboard in Resources */,
 				F92BA7AB24692F47007CE761 /* Assets.xcassets in Resources */,
 				F92BA7A924692F44007CE761 /* Main.storyboard in Resources */,
-				F9EA8162246D5A100052B75E /* 1136989.png in Resources */,
+				F937F85C246FDE59005ACF46 /* minimal-modern-simple-architecture-.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
